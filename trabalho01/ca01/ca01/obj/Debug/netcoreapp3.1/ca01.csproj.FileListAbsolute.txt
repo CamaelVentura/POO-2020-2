@@ -1,0 +1,13 @@
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\bin\Debug\netcoreapp3.1\ca01.exe
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\bin\Debug\netcoreapp3.1\ca01.deps.json
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\bin\Debug\netcoreapp3.1\ca01.runtimeconfig.json
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\bin\Debug\netcoreapp3.1\ca01.runtimeconfig.dev.json
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\bin\Debug\netcoreapp3.1\ca01.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\bin\Debug\netcoreapp3.1\ca01.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.csprojAssemblyReference.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.AssemblyInfoInputs.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.AssemblyInfo.cs
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.csproj.CoreCompileInputs.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\POO\trabalho01\ca01\ca01\obj\Debug\netcoreapp3.1\ca01.genruntimeconfig.cache

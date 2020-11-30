@@ -1,0 +1,7 @@
+C:\Users\THIAGO\Desktop\POO\ca06\bin\Debug\ca06.exe.config
+C:\Users\THIAGO\Desktop\POO\ca06\bin\Debug\ca06.exe
+C:\Users\THIAGO\Desktop\POO\ca06\bin\Debug\ca06.pdb
+C:\Users\THIAGO\Desktop\POO\ca06\obj\Debug\ca06.csprojAssemblyReference.cache
+C:\Users\THIAGO\Desktop\POO\ca06\obj\Debug\ca06.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO\Desktop\POO\ca06\obj\Debug\ca06.exe
+C:\Users\THIAGO\Desktop\POO\ca06\obj\Debug\ca06.pdb
